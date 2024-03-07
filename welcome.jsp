@@ -50,7 +50,7 @@
     <p>You have successfully logged in to the system.</p>
 
     <p>Here is our DevOps project:</p>
-    <p><strong>Project by:</strong> טל זכריה, עומר חזן, אופק דדיה, עמית אוחנה</p>
+    <p><strong>Project by:</strong> טל זכריה, עומר חזן, אופק דאידה, עמית אוחנה</p>
 
     <%-- הוספת קישור לדף התנתקות --%>
     <form method="post" action="logout.jsp">
