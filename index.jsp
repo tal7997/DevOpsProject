@@ -81,7 +81,7 @@
         <input type="submit" value="Login">
 
         <%-- הוספת לינק לעמוד אודות (aboutUs.jsp) --%>
-        <a href="aboutUs.jsp">About Us</a>
+        <a href="aboutUs.jsp">More About Us</a>
     </form>
 
 </body>
